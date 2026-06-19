@@ -1,0 +1,12 @@
+# Ігнорувати директорію збирання CMake
+/build/
+/CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Ігнорувати компільовані файли та бінарники
+*.exe
+*.out
+*.app
+ArrayPointers
